@@ -6,10 +6,12 @@
 - 🌱 Senior Full stack developer.
 
 - 🌱 Major Experiences
-  
-  • Blockchain Development (DeFi, DApps and DEX, Smart Contract with Solidity, Rust, Solana, etc)
 
-  • Web Development with MERN, MEAN, MEVN
+    • Web design and Fronend Develpment with React.JS, Vue.JS, Typescript, TailwindCSS.
+  
+    • Backend Development with Node.JS, .NET, Django.
+
+    • Blockchain Development (DeFi, NFT, DApps and DEX, Smart Contract with Solidity, Rust, Solana, etc)
   
  
   
