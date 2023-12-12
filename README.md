@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello! 👋</h1>
+<h1 align="center">👋 Hello! **Romantic Collection** 👋</h1>
 <h3 align="center">A Senior Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stayForward09&label=Profile%20views&color=0e75b6&style=flat" alt="stayForward09" /> </p>
@@ -31,7 +31,7 @@
 <p align="center">
   <a>
     <img height="120" width="150" src="https://github.com/stayForward09/stayForward09/blob/main/left.png">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snowMan108&theme=dark&hide_border=true"/>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stayForward09&theme=dark&hide_border=true"/>
     <img height="120" width="150" src="https://github.com/stayForward09/stayForward09/blob/main/right.png">
   </a>
 </p>
