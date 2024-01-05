@@ -7,7 +7,7 @@
 
 - 🌱 Major Experiences
 
-    • Web design and Fronend Develpment with React.JS, Vue.JS, Typescript, TailwindCSS.
+    • Web design and Fronend Develpment with React.JS, Next.JS, Vue.JS, Typescript, TailwindCSS.
   
     • Backend Development with Node.JS, GraphQL, Golang, .NET, Django.
 
