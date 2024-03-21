@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hello! I'm Davee 👋</h1>
-<h3 align="center">An Experienced Frontend | Backend | Blockchain Engineer</h3>
+<h1 align="center">👋 Hello! I'm Jacob 👋</h1>
+<h3 align="center">An Experienced Frontend | Backend | Generative AI | CustomGPT Specialist </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stayForward09&label=Profile%20views&color=0e75b6&style=flat" alt="stayForward09" /> </p>
 
@@ -9,9 +9,9 @@
 
     • Web design and Fronend Develpment with React.JS, Next.JS, Vue.JS, Typescript, TailwindCSS.
   
-    • Backend Development with Node.JS, GraphQL, Golang, .NET, Django.
+    • Backend Development with Node.JS, GraphQL, Golang, Django.
 
-    • Blockchain Development (DeFi, NFT, DApps and DEX, Smart Contract with Solidity, Rust, Solana, etc)
+    • AI/ML with Generative AI, Customized GPT development, Facial Recognition, Face Anti-Spoofing Algorithm
   
  
   
