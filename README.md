@@ -31,7 +31,7 @@
 <p align="center">
   <a>
     <img height="120" width="150" src="https://github.com/stayForward09/stayForward09/blob/main/left.png">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stayForward09&theme=dark&hide_border=true"/>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SweetmanTech&theme=dark&hide_border=true"/>
     <img height="120" width="150" src="https://github.com/stayForward09/stayForward09/blob/main/right.png">
   </a>
 </p>
