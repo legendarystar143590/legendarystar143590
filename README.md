@@ -1,13 +1,13 @@
 <h1 align="center">👋 Hello! I'm Jacob 👋</h1>
-<h3 align="center">An Experienced Frontend | Backend | Generative AI | CustomGPT Specialist </h3>
+<h3 align="center">Seasoned Project Manager | Backend | Generative AI | ML/DL </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stayForward09&label=Profile%20views&color=0e75b6&style=flat" alt="stayForward09" /> </p>
 
-- 🌱 Senior Full stack developer.
+- 🌱 Project Manager.
 
 - 🌱 Major Experiences
 
-    • Web design and Fronend Develpment with React.JS, Next.JS, Vue.JS, Typescript, TailwindCSS.
+    • Fronend Develpment with React.JS, Next.JS, Vue.JS, Typescript, TailwindCSS.
   
     • Backend Development with Node.JS, GraphQL, Golang, Django.
 
