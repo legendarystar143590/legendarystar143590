@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello! I'm Jacob 👋</h1>
+<h1 align="center">👋 Hello! I'm AI/NL specialist 👋</h1>
 <h3 align="center">Seasoned Project Manager | Backend | Generative AI | ML/DL </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stayForward09&label=Profile%20views&color=0e75b6&style=flat" alt="stayForward09" /> </p>
