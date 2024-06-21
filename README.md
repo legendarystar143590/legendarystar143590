@@ -22,7 +22,7 @@
 
 <br>
 <p align="center">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stayForward09&show_icons=true&hide_title=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=legendarystar143590&show_icons=true&hide_title=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=stayForward09&show_icons=true&hide_title=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
 <br><br><br><br><br><br><br><br><br>
 
